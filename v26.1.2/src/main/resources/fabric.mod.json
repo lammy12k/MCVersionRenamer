@@ -5,13 +5,11 @@
 	"name": "MCVersionRenamer",
 	"description": "MCVersionRenamer is a fun tool to rename your Minecraft version to whatever you want!",
 	"authors": [
-		"KyfStore11k"
+		"lammy12k"
 	],
 	"contact": {
-		"homepage": "https://kyfstore.com",
-		"sources": "https://github.com/KyfStore11k/MCVersionRenamer",
-		"issues": "https://github.com/KyfStore11k/MCVersionRenamer/issues",
-		"email": "support@kyfstore.com"
+		"sources": "https://github.com/lammy12k/MCVersionRenamer",
+		"issues": "https://github.com/lammy12k/MCVersionRenamer/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/mcversionrenamer/icon.png",
@@ -19,7 +17,7 @@
 	"entrypoints": {
 		"main": [
 			{
-				"value": "com.kyfstore.mcversionrenamer.MCVR12111"
+				"value": "com.kyfstore.mcversionrenamer.MCVR2612"
 			}
 		],
 		"fabric-datagen": [
@@ -57,11 +55,10 @@
 	"custom": {
 		"modmenu": {
 			"links": {
-				"modmenu.discord": "https://discord.gg/YW3YKhJ9yk",
 				"modmenu.modrinth": "https://modrinth.com/mod/mcversionrenamer",
 				"modmenu.curseforge": "https://curseforge.com/minecraft/mc-mods/mcversionrenamer",
-				"modmenu.github_releases": "https://github.com/KyfStore11k/MCVersionRenamer/releases",
-				"modmenu.author_github": "https://github.com/KyfStore11k"
+				"modmenu.github_releases": "https://github.com/lammy12k/MCVersionRenamer/releases",
+				"modmenu.author_github": "https://github.com/lammy12k"
 			},
 			"update_checker": true
 		},

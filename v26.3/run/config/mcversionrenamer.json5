@@ -1,0 +1,16 @@
+{
+	versionText: "Minecraft* 26.3/Fabric (Modded)",
+	f3Text: "Minecraft* 26.3/Fabric (Modded)",
+	titleText: "Minecraft* 26.3",
+	splashText: "MCVersionRenamer!",
+	shouldPopenVersionModal: true,
+	useLegacyButton: false,
+	buttonEnabled: true,
+	pluginsEnabled: false,
+	clientBrand: "fabric",
+	versionTextColor: "WHITE",
+	versionTextURI: "https://minecraft.wiki/?search=Java%20Edition%201.21.11",
+	versionTextIsBold: false,
+	versionTextIsItalic: false,
+	versionTextIsObfuscated: false
+}
